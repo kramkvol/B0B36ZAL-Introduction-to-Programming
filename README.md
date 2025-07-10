@@ -1,5 +1,4 @@
-# B0B36ZAL Introduction to Programming
-Winter Semester 2023 - tasks for B0B36ZAL Introduction to Programming
+# B0B36ZAL Introduction to Programming (Python)
 ## My solutions was automaticly cheked by BRUTE
 
 3) Calculator - Operations with numbers, exceptions	
